@@ -1,8 +1,9 @@
 # Content
 
 This repository contains, for the submission to ESWC2022 :
-- our data (in both rdf and tsv, as we used the tsv file for training our embedding models)
+- our data 
 - the mined rules (pdf)
+- an introductive notebook with comments (see examples/mine_dcr_on_kg.ipynb) that shows the process of our algorithm and how the different functions are used
 
 # How to read MinedRules.pdf
 
