@@ -1,0 +1,1097 @@
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more relations not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - num_entities already exists in loss hyperparameters dict with value 2659 
+Overriding with value 2659.
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.01
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.01
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 1e-05
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.01
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 1e-05
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Loss is nan. Please change the hyperparameters.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 5
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Generating one-hot outputs for test [filtered: True, unique_pairs: False]
